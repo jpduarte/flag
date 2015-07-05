@@ -2,7 +2,7 @@ var imgUrl = '';
 //$('.fb-welcome, #start-text, #loginbtn, #loadimg, #lower-div').toggle();
 window.fbAsyncInit = function() {
   FB.init({
-    appId: '851549238270521',
+    appId: '410430555807843',
     xfbml: true,
     version: 'v2.3'
   });
